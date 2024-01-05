@@ -4,7 +4,3 @@
 # Editor
 .vscode
 
-# Build files
-translations/
-config.json
-
